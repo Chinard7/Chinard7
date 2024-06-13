@@ -8,11 +8,4 @@
 - 👔 Inexperiente na área no momento, mais buscando emprego e experiência a todo momento
 - OBS: os repositórios que contenham nome referente a uma data(exemplo: 24.05.24) são parte do portifólio do curso Empregatech de Java do Senac Centro de Londrina
 
-### ⚙️ &nbsp;Analises do Github
-
-<div align="center">  
-  <img width="49%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=D53261&show_icons=true&count_private=true&hide_border=true&title_color=0865d1&icon_color=0865d1&text_color=ffffff&bg_color=0d1118" alt="Status do Github de Chinard7"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D53261&layout=compact&hide_border=true&title_color=0865d1&text_color=0865d1&bg_color=0d1118"/>
-</div>
-
 ![Grafico de atividade do Github de Chinard7](https://github-readme-activity-graph.vercel.app/graph?username=Chinard7&bg_color=0d1118&color=f5f5f7&line=0665d1&point=f5f5f7&area=true)
