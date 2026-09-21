@@ -21,12 +21,3 @@ Estudante de **Ciência da Computação** focado em desenvolvimento de software,
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Chinard7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinard7&layout=compact&theme=dark"/>
-</p>
-
----
